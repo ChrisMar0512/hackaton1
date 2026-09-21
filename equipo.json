@@ -1,7 +1,7 @@
 {
-  "equipo": "G00",
+  "equipo": "G08",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
+    { "nombre": "Christian Mar", "codigo": "202210512" },
     { "nombre": "Leonardo Martinez", "codigo": "202410148" },
     { "nombre": "Marcelo Rosillo", "codigo": "202410597" }
   ]
